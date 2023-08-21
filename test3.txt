@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 844C-6CD6
+
+ Directory of C:\Users\Planck Epoch\Desktop\project7
+
+21-08-2023  11:44    <DIR>          .
+21-08-2023  11:44    <DIR>          ..
+21-08-2023  10:21               394 index.html
+21-08-2023  11:44                 0 test3.txt
+21-08-2023  11:18               365 text1.txt
+21-08-2023  11:21                55 text2.txt
+               4 File(s)            814 bytes
+               2 Dir(s)  221,090,840,576 bytes free
